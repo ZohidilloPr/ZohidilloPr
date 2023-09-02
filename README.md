@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zohidillo Turgunov</h1>
 <h3 align="center">Python Backend Developer</h3>
 
-- 🌱 I’m currently learning **FastAPI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
